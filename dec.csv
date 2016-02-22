@@ -1,0 +1,89 @@
+﻿incio,destino,distancia
+Padre Hurtado,Maipu,7.93
+Maipu,Cerrillos,5.37
+Maipu,Estacion Central,8.98
+Maipu,Pudahuel,13.41
+Pudahuel,Lo Prado,11.58
+Pudahuel,Cerro Navia,9.47
+Pudahuel,Renca,9.47
+Pudahuel,Quilicura,11.52
+Renca,Quilicura,5.34
+Renca,Conchali,5.98
+Renca,Cerro Navia,2.40
+Renca,Quinta Normal,4.45
+Renca,Independencia,5.45
+Quilicura,Conchali,4.8
+Quilicura,Huechuraba,9
+Cerro Navia,Quinta Normal,3.36
+Cerro Navia,Lo Prado,3.33
+Lo Prado,Quinta Normal,3.14
+Lo Prado,Santiago,16.18
+Lo Prado,Estacion Central,2.24
+Quinta Normal,Santiago,13.89
+Estacion Central,Santiago,14.62
+Estacion Central,Pedro Aguirre Cerda,3.87
+Estacion Central,Cerrillos,5.13
+Cerrillos,Pedro Aguirre Cerda,3.79
+Cerrillos,Lo Espejo,3.97
+Pedro Aguirre Cerda,Santiago,14.05
+Pedro Aguirre Cerda,San Miguel,2.34
+Pedro Aguirre Cerda,La Cisterna,4.72
+Pedro Aguirre Cerda,Lo Espejo,3.98
+Lo Espejo,San Miguel,4.5
+Lo Espejo,La Cisterna,2.34
+Lo Espejo,El Bosque,4.71
+Lo Espejo,San Bernardo,6.65
+Conchali,Huechuraba,4.09
+Conchali,Recoleta,4.45
+Conchali,Independencia,3.51
+Independencia,Santiago,11.87
+Independencia,Recoleta,3.58
+Huechuraba,Recoleta,4.34
+Huechuraba,Vitacura,6.73
+Recoleta,Santiago,8.4
+Recoleta,Providencia,3.87
+Recoleta,Vitacura,7.86
+Santiago,Providencia,6.43
+Santiago,Nunoa,6.53
+Santiago,San Joaquin,11.15
+Santiago,San Miguel,12.79
+Vitacura,Lo Barnechea,5.23
+Vitacura,Las Condes,6.08
+Vitacura,Providencia,8.08
+Lo Barnechea,Las Condes,5.75
+Providencia,Las Condes,11.18
+Providencia,La Reina,6.33
+Providencia,Nunoa,2.46
+Las Condes,La Reina,7.07
+Las Condes,Penalolen,9.64
+Nunoa,La Reina,5.02
+Nunoa,Penalolen,6.78
+Nunoa,Macul,3.6
+Nunoa,San Joaquin,5.21
+La Reina,Penalolen,3.68
+Penalolen,Macul,6.1
+Penalolen,La Florida,4.8
+Macul,La Florida,7.39
+Macul,San Joaquin,1.9
+San Joaquin,La Granja,3.9
+San Joaquin,La Florida,7.77
+San Joaquin,San Ramon,4.95
+San Miguel,La Cisterna,3.98
+San Miguel,San Ramon,5.01
+San Miguel,San Joaquin,3.28
+La Cisterna,San Ramon,2.23
+La Cisterna,El Bosque,3.96
+La Cisterna,San Bernardo,6.27
+El Bosque,San Bernardo,2.33
+El Bosque,San Ramon,4.05
+El Bosque,La Pintana,4.47
+San Bernardo,La Pintana,4.94
+San Ramon,La Granja,1.5
+San Ramon,La Pintana,5
+La Pintana,La Granja,5.53
+La Pintana,La Florida,10.97
+La Pintana,Puente Alto,6.96
+La Florida,La Granja,8.34
+La Florida,Puente Alto,10.55
+Puente Alto,Pirque,18.36
+Puente Alto,San Jose de Maipo,39.67
